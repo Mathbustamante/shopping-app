@@ -1,14 +1,14 @@
-######Authors
+###### Authors
 * Matheus Bustamante
 
 ## Project Rubric:
 
-######Languages/Frameworks used 
+###### Languages/Frameworks used 
 *  Used React.js frontend
 *  Used Node.js Express backend
 *  Used MongoDB for the database
 
-######Functionality
+###### Functionality
 *  Users can search for products within the website
 *  Users can suggest products to other users
 *  Users can comment on item
